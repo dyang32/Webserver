@@ -1,4 +1,4 @@
-How to use filezilla to SFTP to your Web Server
+## How to use filezilla to SFTP to your Web Server
 
 On client machine
   sudo apt-get install filezilla
