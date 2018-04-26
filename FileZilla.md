@@ -1,6 +1,6 @@
 ## How to use filezilla to SFTP to a Web Server
 
-#### On client machine
+#### On client machine:
 `sudo apt-get install filezilla`
 
 #### Once download completes, open FileZilla
@@ -15,5 +15,5 @@
     In the "Protocol" pick the option "SFTP-SSH File Transfer Protocol"
     In the "Logon Type:" pick the option "Ask for Password"
     In the "User:" put your soot splash ID
-Click "Connect"
-You will be prompt for a password, type in your soot splash password
+#### Click "Connect"
+#### You will be prompt for a password, type in your soot splash password
