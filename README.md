@@ -1,10 +1,10 @@
 ## Researcher
-My role:
+1. My role:
 * Created the website with basic menu system
 * Design the homepage of the website
 * Uploading webpage to the server
 ***
-I wanted to make a website with a menu system so that each group could have ther own section. Also, I wanted the homepage to be a central location to find every teams information. 
+2. I wanted to make a website with a menu system so that each group could have ther own section. Also, I wanted the homepage to be a central location to find every teams information. 
 
 I used Dreamweaver because it incorporates HTML, CSS, Javascript, Bootstrap, and many more into one application and is easy to use.
 * **HTML** - (Hyper Text Markup Language) is the standard markup language for creating web pages.
