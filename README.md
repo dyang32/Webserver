@@ -11,7 +11,7 @@ I wanted to make a website with a menu system so that each group could have ther
 * **JavaScript** - JavaScript is the programming language of HTML Allows you to implement complex things on web pages.
 * **Bootstrap** - Bootstrap is a free and open-source front-end library for designing websites and web applications. It contains HTML, CSS and JavaScrtipt.
 
-I used FileZilla to transfer the files from the website's GitHub repository [here](https://github.com/taimaishuze/sootsplash.html) over to the Sootsplash server [here](https://sootsplash.csci2461.com). <br/>
+I used FileZilla to transfer the files from the website's GitHub repository (https://github.com/taimaishuze/sootsplash.html) over to the Sootsplash server (https://sootsplash.csci2461.com). <br/>
 I've also wrote a guide on how to install and configure FileZilla [here](https://github.com/dyang32/Webserver/blob/master/FileZilla-HowToInstall.md).
 * **FileZilla** - Provides easy to use FTP and SFTP, for this project we used SFTP. 
 * **SFTP** (SSH File Transfer Protocol) - Is a network protocol that does different types of file transfers, file acess, and file management over a reliable and secure connection. SFTP runs over an SSH session, usualy on TCP port 22.
