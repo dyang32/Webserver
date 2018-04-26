@@ -1,7 +1,7 @@
 ## Researcher
 My role:
 * Created the website with basic menu system
-* Design the home page of the website
+* Design the homepage of the website
 ***
 I wanted to make a website with a menu system so that each group could have ther own section. Also, I wanted the homepage to be a central location to find every groups information. 
 
