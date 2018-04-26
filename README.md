@@ -22,4 +22,5 @@ Once I had the website and Filezilla setup it was just a matter of getting peopl
 | Problems | Solved |
 |--------------|------------|
 | After uploading files using FileZilla, files on the server would still not update | Changed file permissions in terminal and sometimes having to nano into a file to make changes |
+| Some users changed/edited files on the server instead of using the GitHub | Ongoing issue could not solve |
 
