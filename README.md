@@ -19,7 +19,7 @@ I've also wrote a guide on how to install and configure FileZilla [here](https:/
 Once I had the website and Filezilla setup it was just a matter of getting people to update their information on the GitHub page then uploading that information to the webserver.
 
 ### Issues and problems I had
-| Problems     | Solved     |
+| Problems | Solved |
 |--------------|------------|
-| After uploading files using FileZilla, files on the server would still not update     | Changed file permissions in terminal and sometimes having to nano into a file to make changes     |
+| After uploading files using FileZilla, files on the server would still not update | Changed file permissions in terminal and sometimes having to nano into a file to make changes |
 
