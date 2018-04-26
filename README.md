@@ -16,6 +16,9 @@ I've also wrote a guide on how to install and configure FileZilla [here](https:/
 * **FileZilla** - Provides easy to use FTP and SFTP, for this project we used SFTP. 
 * **SFTP** (SSH File Transfer Protocol) - Is a network protocol that does different types of file transfers, file acess, and file management over a reliable and secure connection. SFTP runs over an SSH session, usualy on TCP port 22.
 
+Our website uses HTTPS to connect to the internet.
+*  **HTTPS** (Hypter Text Transfer Protocol Secure) - Is a secure version of HTTP, is the protocol over which data is sent between our browser and the website you are connected to.
+* The **S** in HTTPS stands for Secure, it means all communications between your browser and website is encrypted.
 Once I had the website and Filezilla setup it was just a matter of getting people to update their information on the GitHub repository then uploading that information to the webserver.
 
 ### Issues and Problems:
