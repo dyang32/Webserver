@@ -1,3 +1,5 @@
+I used FileZile to transfer the files from the website's GitHub repository over to the Sootsplash server.
+
 # FileZilla
 
 FileZilla provides easy to use FTP and SFTP 
