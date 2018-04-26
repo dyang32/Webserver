@@ -2,6 +2,7 @@
 My role:
 * Created the website with basic menu system
 * Design the homepage of the website
+* Uploading webpage to the server
 ***
 I wanted to make a website with a menu system so that each group could have ther own section. Also, I wanted the homepage to be a central location to find every teams information. 
 
