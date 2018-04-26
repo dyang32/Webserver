@@ -10,7 +10,7 @@ I used Dreamweaver because it incorporates HTML, CSS, Javascript, Bootstrap, and
 * **HTML** - (Hyper Text Markup Language) is the standard markup language for creating web pages.
 * **CSS** - (Cascading Style Sheets) describes how HTML elements are to be displayed on screen, paper, or other media.
 * **JavaScript** - JavaScript is the programming language of HTML Allows you to implement complex things on web pages.
-* **Bootstrap** - Bootstrap is a free and open-source front-ent library for designing websites and web applications. It contains HTML, CSS and JavaScrtipt.
+* **Bootstrap** - Bootstrap is a free and open-source front-end library for designing websites and web applications. It contains HTML, CSS and JavaScrtipt.
 
 #### Dreamweaver
 * Dreamweaver is an all-in-one visual development tool for creating, publishing, and managing websites and mobile content.
