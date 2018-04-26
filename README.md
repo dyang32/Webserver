@@ -16,8 +16,8 @@ I've also wrote a guide on how to install and configure FileZilla [here](https:/
 * **FileZilla** - Provides easy to use FTP and SFTP, for this project we used SFTP. 
 * **SFTP** (SSH File Transfer Protocol) - Is a network protocol that does different types of file transfers, file acess, and file management over a reliable and secure connection. SFTP runs over an SSH session, usualy on TCP port 22.
 
-Our website uses HTTPS to connect to the internet.
-*  **HTTPS** (Hypter Text Transfer Protocol Secure) - Is a secure version of HTTP, is the protocol over which data is sent between the browser and the website you are connected to. The **S** in HTTPS stands for Secure, it means all communications between your browser and website is encrypted.
+Website uses HTTPS to connect to the internet.
+*  **HTTPS** (Hypter Text Transfer Protocol Secure) - Is a secure version of HTTP, is the protocol over which data is sent between the browser and the website you are connected to. The **S** in HTTPS stands for Secure, it means all communications between your browser and website are encrypted.
 * Typically uses two secure protocols for encryption, **SSL** or **TLS**, both forms uses the **PKI** system.
 * Uses port **443**.
 
