@@ -1,4 +1,4 @@
-I used FileZila to transfer the files from the website's GitHub (<https://github.com/taimaishuze/sootsplash.html) repository over to the Sootsplash server (<https://sootsplash.csci2461.com/).
+I used FileZila to transfer the files from the website's GitHub (https://github.com/taimaishuze/sootsplash.html) repository over to the Sootsplash server (https://sootsplash.csci2461.com).
 
 # FileZilla
 
