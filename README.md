@@ -1,4 +1,4 @@
-My role in the group was Researcher
+## Researcher
 What I did:
 * Created the website with basic menu system
 * Design the home page of the website
