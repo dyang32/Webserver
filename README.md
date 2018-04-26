@@ -1,4 +1,4 @@
-## Researcher
+## Testing
 My role:
 * Creating the website with basic menu system
 * Designing the homepage of the website
