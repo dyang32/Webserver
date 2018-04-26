@@ -3,6 +3,9 @@ My role in the group was Researcher
 I wanted to make a website with a menu system so that each group could have ther own section along with a homepage to use as a central location to find every groups information.
 
 I used Dreamweaver because it incorporates HTML, CSS, Javascript, Bootstrap, JQuery into one application and is easy to use.
+* HTML - (Hyper Text Markup Language) is the standard markup language for creating web pages
+* CSS - (Cascading Style Sheets) describes how HTML elements are to be displayed on screen, paper, or other media
+* JavaScript - JavaScript is the programming language of HTML Allows you to implement complex things on web pages
 
 #### Dreamweaver
 * Dreamweaver is an all-in-one visual development tool for creating, publishing, and managing websites and mobile content.
