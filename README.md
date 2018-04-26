@@ -1,4 +1,7 @@
 My role in the group was Researcher
+What I did:
+* Created the website with basic menu system
+* Design the home page of the website
 ***
 I wanted to make a website with a menu system so that each group could have ther own section along with a homepage to use as a central location to find every groups information.
 
